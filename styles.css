@@ -1,0 +1,9 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+/*# sourceMappingURL=styles.css.map */
